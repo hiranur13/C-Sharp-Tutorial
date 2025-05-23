@@ -1,0 +1,101 @@
+﻿namespace ntp2
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnSari = new System.Windows.Forms.Button();
+            this.btnSiyah = new System.Windows.Forms.Button();
+            this.btnYeşil = new System.Windows.Forms.Button();
+            this.btnMor = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnSari
+            // 
+            this.btnSari.Location = new System.Drawing.Point(85, 53);
+            this.btnSari.Name = "btnSari";
+            this.btnSari.Size = new System.Drawing.Size(75, 23);
+            this.btnSari.TabIndex = 0;
+            this.btnSari.Text = "SARI";
+            this.btnSari.UseVisualStyleBackColor = true;
+            this.btnSari.Click += new System.EventHandler(this.btnSari_Click);
+            // 
+            // btnSiyah
+            // 
+            this.btnSiyah.Location = new System.Drawing.Point(85, 82);
+            this.btnSiyah.Name = "btnSiyah";
+            this.btnSiyah.Size = new System.Drawing.Size(75, 23);
+            this.btnSiyah.TabIndex = 1;
+            this.btnSiyah.Text = "SİYAH";
+            this.btnSiyah.UseVisualStyleBackColor = true;
+            this.btnSiyah.Click += new System.EventHandler(this.btnSiyah_Click);
+            // 
+            // btnYeşil
+            // 
+            this.btnYeşil.Location = new System.Drawing.Point(85, 140);
+            this.btnYeşil.Name = "btnYeşil";
+            this.btnYeşil.Size = new System.Drawing.Size(75, 23);
+            this.btnYeşil.TabIndex = 2;
+            this.btnYeşil.Text = "YEŞİL";
+            this.btnYeşil.UseVisualStyleBackColor = true;
+            this.btnYeşil.Click += new System.EventHandler(this.btnYeşil_Click);
+            // 
+            // btnMor
+            // 
+            this.btnMor.Location = new System.Drawing.Point(85, 111);
+            this.btnMor.Name = "btnMor";
+            this.btnMor.Size = new System.Drawing.Size(75, 23);
+            this.btnMor.TabIndex = 3;
+            this.btnMor.Text = "MOR";
+            this.btnMor.UseVisualStyleBackColor = true;
+            this.btnMor.Click += new System.EventHandler(this.btnMor_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnMor);
+            this.Controls.Add(this.btnYeşil);
+            this.Controls.Add(this.btnSiyah);
+            this.Controls.Add(this.btnSari);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button btnSari;
+        private System.Windows.Forms.Button btnSiyah;
+        private System.Windows.Forms.Button btnYeşil;
+        private System.Windows.Forms.Button btnMor;
+    }
+}
+
