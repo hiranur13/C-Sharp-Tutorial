@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ntp3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnPembe_Click(object sender, EventArgs e)
+        {
+            lblAd.ForeColor = Color.Pink;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            btnPembe.BackColor = Color.Pink;
+            btnMor.BackColor = Color.Purple;
+            btnMavi.BackColor = Color.Blue;
+            btnGri.BackColor = Color.Gray;
+        }
+
+        private void btnMavi_Click(object sender, EventArgs e)
+        {
+            btnMor.ForeColor = Color.Purple;
+        }
+
+        private void btnGri_Click(object sender, EventArgs e)
+        {
+            btnGri.ForeColor = Color.Gray;
+        }
+
+        private void btnMor_Click(object sender, EventArgs e)
+        {
+            btnMor.ForeColor = Color.Purple;
+        }
+    }
+}

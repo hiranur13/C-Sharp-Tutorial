@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\bin\Debug\ntp3.exe.config
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\bin\Debug\ntp3.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\bin\Debug\ntp3.pdb
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp3\ntp3\obj\Debug\ntp3.pdb

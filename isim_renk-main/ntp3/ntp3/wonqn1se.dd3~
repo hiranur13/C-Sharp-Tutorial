@@ -1,0 +1,111 @@
+﻿namespace ntp3
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblAd = new System.Windows.Forms.Label();
+            this.btnPembe = new System.Windows.Forms.Button();
+            this.btnMavi = new System.Windows.Forms.Button();
+            this.btnGri = new System.Windows.Forms.Button();
+            this.btnMor = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // lblAd
+            // 
+            this.lblAd.AutoSize = true;
+            this.lblAd.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAd.Location = new System.Drawing.Point(12, 9);
+            this.lblAd.Name = "lblAd";
+            this.lblAd.Size = new System.Drawing.Size(371, 42);
+            this.lblAd.TabIndex = 0;
+            this.lblAd.Text = "HİRANUR KULAKCI";
+            // 
+            // btnPembe
+            // 
+            this.btnPembe.Location = new System.Drawing.Point(61, 80);
+            this.btnPembe.Name = "btnPembe";
+            this.btnPembe.Size = new System.Drawing.Size(46, 43);
+            this.btnPembe.TabIndex = 1;
+            this.btnPembe.UseVisualStyleBackColor = true;
+            this.btnPembe.Click += new System.EventHandler(this.btnPembe_Click);
+            // 
+            // btnMavi
+            // 
+            this.btnMavi.Location = new System.Drawing.Point(125, 80);
+            this.btnMavi.Name = "btnMavi";
+            this.btnMavi.Size = new System.Drawing.Size(46, 43);
+            this.btnMavi.TabIndex = 2;
+            this.btnMavi.UseVisualStyleBackColor = true;
+            this.btnMavi.Click += new System.EventHandler(this.btnMavi_Click);
+            // 
+            // btnGri
+            // 
+            this.btnGri.Location = new System.Drawing.Point(189, 80);
+            this.btnGri.Name = "btnGri";
+            this.btnGri.Size = new System.Drawing.Size(46, 43);
+            this.btnGri.TabIndex = 3;
+            this.btnGri.UseVisualStyleBackColor = true;
+            this.btnGri.Click += new System.EventHandler(this.btnGri_Click);
+            // 
+            // btnMor
+            // 
+            this.btnMor.Location = new System.Drawing.Point(256, 80);
+            this.btnMor.Name = "btnMor";
+            this.btnMor.Size = new System.Drawing.Size(46, 43);
+            this.btnMor.TabIndex = 4;
+            this.btnMor.UseVisualStyleBackColor = true;
+            this.btnMor.Click += new System.EventHandler(this.btnMor_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnMor);
+            this.Controls.Add(this.btnGri);
+            this.Controls.Add(this.btnMavi);
+            this.Controls.Add(this.btnPembe);
+            this.Controls.Add(this.lblAd);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblAd;
+        private System.Windows.Forms.Button btnPembe;
+        private System.Windows.Forms.Button btnMavi;
+        private System.Windows.Forms.Button btnGri;
+        private System.Windows.Forms.Button btnMor;
+    }
+}
+
