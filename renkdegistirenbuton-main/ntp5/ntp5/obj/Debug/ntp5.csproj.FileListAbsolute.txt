@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\bin\Debug\ntp5.exe.config
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\bin\Debug\ntp5.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\bin\Debug\ntp5.pdb
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\ntp5\ntp5\obj\Debug\ntp5.pdb
