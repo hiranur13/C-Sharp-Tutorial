@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\bin\Debug\sınav1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\bin\Debug\sınav1.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\bin\Debug\sınav1.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\sınav1\sınav1\obj\Debug\sınav1.pdb
