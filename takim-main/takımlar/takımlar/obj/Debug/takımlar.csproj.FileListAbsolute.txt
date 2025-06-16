@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\bin\Debug\takımlar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\bin\Debug\takımlar.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\bin\Debug\takımlar.pdb
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.exe
+C:\Users\User\Desktop\KORUMASIZ\NTP_10A\takımlar\takımlar\obj\Debug\takımlar.pdb

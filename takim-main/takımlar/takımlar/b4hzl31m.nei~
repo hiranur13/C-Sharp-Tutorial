@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace takımlar
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lblTakim.Text = "Beşiktaş";
+            lblTakim.BackColor = Color.Black;
+            lblTakim.ForeColor = Color.White;
+        }
+
+        private void btnGS_Click(object sender, EventArgs e)
+        {
+            lblTakim.Text = "GS";
+            lblTakim.BackColor = Color.Yellow;
+            lblTakim.ForeColor = Color.Red;
+
+        }
+
+        private void btnFB_Click(object sender, EventArgs e)
+        {
+            lblTakim.Text = "FB";
+            lblTakim.BackColor = Color.Yellow;
+            lblTakim.ForeColor = Color.Blue;
+        }
+
+        private void btnTrabzonSpor_Click(object sender, EventArgs e)
+        {
+            lblTakim.Text = "Trabzon Spor";
+            lblTakim.BackColor = Color.Blue;
+            lblTakim.ForeColor = Color.Purple;
+        }
+    }
+}

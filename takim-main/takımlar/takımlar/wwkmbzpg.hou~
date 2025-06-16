@@ -1,0 +1,114 @@
+﻿namespace takımlar
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnBeşiktaş = new System.Windows.Forms.Button();
+            this.btnGS = new System.Windows.Forms.Button();
+            this.btnFB = new System.Windows.Forms.Button();
+            this.btnTrabzonSpor = new System.Windows.Forms.Button();
+            this.lblTakim = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // btnBeşiktaş
+            // 
+            this.btnBeşiktaş.Location = new System.Drawing.Point(50, 36);
+            this.btnBeşiktaş.Name = "btnBeşiktaş";
+            this.btnBeşiktaş.Size = new System.Drawing.Size(213, 69);
+            this.btnBeşiktaş.TabIndex = 0;
+            this.btnBeşiktaş.Text = "Beşiktaş";
+            this.btnBeşiktaş.UseVisualStyleBackColor = true;
+            this.btnBeşiktaş.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnGS
+            // 
+            this.btnGS.Location = new System.Drawing.Point(50, 111);
+            this.btnGS.Name = "btnGS";
+            this.btnGS.Size = new System.Drawing.Size(213, 69);
+            this.btnGS.TabIndex = 1;
+            this.btnGS.Text = "GS";
+            this.btnGS.UseVisualStyleBackColor = true;
+            this.btnGS.Click += new System.EventHandler(this.btnGS_Click);
+            // 
+            // btnFB
+            // 
+            this.btnFB.Location = new System.Drawing.Point(50, 186);
+            this.btnFB.Name = "btnFB";
+            this.btnFB.Size = new System.Drawing.Size(213, 69);
+            this.btnFB.TabIndex = 2;
+            this.btnFB.Text = "FB";
+            this.btnFB.UseVisualStyleBackColor = true;
+            this.btnFB.Click += new System.EventHandler(this.btnFB_Click);
+            // 
+            // btnTrabzonSpor
+            // 
+            this.btnTrabzonSpor.Location = new System.Drawing.Point(50, 261);
+            this.btnTrabzonSpor.Name = "btnTrabzonSpor";
+            this.btnTrabzonSpor.Size = new System.Drawing.Size(213, 69);
+            this.btnTrabzonSpor.TabIndex = 3;
+            this.btnTrabzonSpor.Text = "Trabzon Spor";
+            this.btnTrabzonSpor.UseVisualStyleBackColor = true;
+            this.btnTrabzonSpor.Click += new System.EventHandler(this.btnTrabzonSpor_Click);
+            // 
+            // lblTakim
+            // 
+            this.lblTakim.AutoSize = true;
+            this.lblTakim.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblTakim.Location = new System.Drawing.Point(64, 366);
+            this.lblTakim.Name = "lblTakim";
+            this.lblTakim.Size = new System.Drawing.Size(100, 37);
+            this.lblTakim.TabIndex = 4;
+            this.lblTakim.Text = "label1";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(333, 450);
+            this.Controls.Add(this.lblTakim);
+            this.Controls.Add(this.btnTrabzonSpor);
+            this.Controls.Add(this.btnFB);
+            this.Controls.Add(this.btnGS);
+            this.Controls.Add(this.btnBeşiktaş);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button btnBeşiktaş;
+        private System.Windows.Forms.Button btnGS;
+        private System.Windows.Forms.Button btnFB;
+        private System.Windows.Forms.Button btnTrabzonSpor;
+        private System.Windows.Forms.Label lblTakim;
+    }
+}
+
