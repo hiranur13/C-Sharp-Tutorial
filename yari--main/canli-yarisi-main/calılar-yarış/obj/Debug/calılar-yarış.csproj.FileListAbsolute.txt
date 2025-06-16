@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\bin\Debug\calılar-yarış.exe.config
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\bin\Debug\calılar-yarış.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\bin\Debug\calılar-yarış.pdb
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar_yarış.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar_yarış.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.exe
+C:\Users\User\Desktop\KORUMASIZ\eliftorun\calılar-yarış\calılar-yarış\obj\Debug\calılar-yarış.pdb
